@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.bola{
+    background-image: url(https://avatars.githubusercontent.com/u/62805855?v=4);
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: #a29bfe;
+    border-radius: 50%;
+    border: 10px solid #6c5ce7;
+}
+.bola:hover{
+    background-color: #d63031;
+}
